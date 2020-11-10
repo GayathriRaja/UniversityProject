@@ -1,0 +1,42 @@
+#cam-img {
+    font-size: 72px;
+}
+
+/*---- Cam-page ----*/
+#form1 {
+    display: none;
+}
+#formButton {
+    padding: 10px;
+}
+form .col-lg-4 {
+    padding: 5px;
+    margin-bottom: 10px;
+}
+form .col-lg-4 input {
+    border: none
+}
+form .col-lg-6 input{
+    border: none
+} 
+form .col-lg-6 button {
+    width: 98px;
+    height: 78px;
+    border: none
+}
+
+#submit {
+    margin-top: 40px;
+}
+
+
+/*---- add-gate form ----*/
+#back {
+    margin-bottom: 20px;
+}
+
+/*---- login-page ----*/
+form button a {
+    text-decoration: none;
+    color: inherit;
+}
